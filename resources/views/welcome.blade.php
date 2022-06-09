@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel v1.1
+                    Laravel --Force
                 </div>
 
                 <div class="links">
