@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    My Laravel
+                    My Laravel 9:46
                 </div>
 
                 <div class="links">
