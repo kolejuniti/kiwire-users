@@ -14,10 +14,11 @@ use App\Http\Controllers\UserViewController;
 |
 */
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     return view('welcome');
-});
+});*/
 
+Route::get('/','UserController@view_user');
 Route::get('users','UserController@view_user');
 Route::post('users','UserController@insert_user');
 Route::get('users/{id}','UserController@delete_user');
