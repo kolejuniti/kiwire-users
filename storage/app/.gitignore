@@ -1,4 +1,3 @@
 *
-!public
-!public/fortestonly
-!.gitignore
+public/
+.gitignore
